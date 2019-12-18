@@ -1,0 +1,8 @@
+body {
+  background-image: url(https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/37153043_627308310988456_3239210651846967296_n.jpg?_nc_cat=100&_nc_eui2=AeEpYNMTWPAsAhTvWHrlQCqRB5G1nWbZkXoJlxuucjPOHFh9Wr0PeKnW3G_BA6Kf56h-VqPWhEgw06swf7iP6IboasJQvFkjOKehY7e080nX1g&_nc_ohc=6NbcT8BWEZsAQnyP6t9r8BoXkmSPJhkDZdidKzUJXfBoUhZLsuDAT94qA&_nc_ht=scontent-lax3-1.xx&oh=262661f2f6952a6886180a8650fbf109&oe=5E731E7B
+  h1 {
+    color: silver;
+  }
+  p {
+    color: blue;
+  }
